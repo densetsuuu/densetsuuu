@@ -26,7 +26,7 @@
 
 <br>
 
-## 📑 Tools
+## 🛠 Tools
 <p>
   <code><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="30"></code>
   <code><img src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" height="30"></code>
