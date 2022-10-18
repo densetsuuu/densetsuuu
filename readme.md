@@ -60,4 +60,5 @@
 <br>
 
 ## 🖥 Portfolio
-<code>Soon...</code>
+
+https://densetsuuu.github.io/portfolio
