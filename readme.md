@@ -42,7 +42,7 @@
 <br>
 
 ## 📊 Stats
-[![Densetsuuu's Github Stats](https://github-readme-stats.vercel.app/api?username=Densetsuuu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Raphael's Github Stats](https://github-readme-stats.vercel.app/api?username=raphael-alarcon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -61,4 +61,4 @@
 
 ## 🖥 Portfolio
 
-https://densetsuuu.github.io/portfolio
+https://raphael-alarcon.github.io/portfolio
