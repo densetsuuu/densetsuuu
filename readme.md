@@ -4,9 +4,6 @@
 ## 👤 About me
 - :telescope:  I’m currently working on something useless...
 - :notebook_with_decorative_cover: I'm studying at IUT of Bordeaux
-- :seedling:  I’m currently learning :
-
-&emsp;&emsp;&emsp;&emsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="20">&emsp;<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="" height="20">&emsp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="20">&emsp;<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" height="20">
 
 <br>
 
