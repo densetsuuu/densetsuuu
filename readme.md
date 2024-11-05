@@ -1,61 +1,89 @@
 <img src="https://raw.githubusercontent.com/Densetsuuu/Densetsuuu/master/img/header.png" alt="Header of readme">
 
-
-## 👤 About me
-- :telescope:  I’m currently working on something useless...
-- :notebook_with_decorative_cover: I'm studying at IUT of Bordeaux
+<a id="readme-top"></a>
 
 <br>
 
-## 📑 Languages
-<p>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="50"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40"></code>
-  <code><img src="https://cdn-icons-png.flaticon.com/512/919/919830.png?w=360" height="40"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40"></code>
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height="40"></code>
-</p>
+<h3 align="center">I'm <b>Raphaël</b>, a computer science student based in France <b>driven by passion</b> :telescope:</h3>
 
 <br>
 
-## 🛠 Tools
-<p>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="30"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" height="30"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" height="30"></code>
-  <code><img src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" height="30"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="30"></code>
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" height="30"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" height="30"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="30"></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="30"></code>
-</p>
+***
 
 <br>
 
-## 📊 Stats
-[![Raphael's Github Stats](https://github-readme-stats.vercel.app/api?username=raphael-alarcon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ### 📑 Tools and Languages
+  
+  [![Typescript][Typescript]][Typescript-url]
+  [![Symfony][Symfony]][Symfony-url]
+  [![Hono][Hono.js]][Hono-url]
+  [![Next][Next.js]][Next-url]
+  [![React][React.js]][React-url]
+  [![Angular][Angular.js]][Angular-url]
+  [![Adonis][Adonis.js]][Adonis-url]
+
+</div>
 
 <br>
 
-## 🎧 Spotify tracking
+<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cpnu4elr9dflxa8env6s2z8fq&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+  ### 📊 Stats
+  
+  [![Raphael's Github Stats](https://github-readme-stats.vercel.app/api?username=raphael-alarcon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-## 📞 Contact
-
-- raph.alarcon1@gmail.com
-- linkedIn
+</div>
 
 <br>
 
-## 🖥 Portfolio
+<div align="center">
+  
+  ### 🎧 Spotify tracking
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cpnu4elr9dflxa8env6s2z8fq&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
-https://raphael-alarcon.github.io/portfolio
+</div>
+
+<br>
+
+<div align="center">
+  
+  ## 📞 Contact
+  
+  [![Email][Email]][Email-url]
+  [![LinkedIn][LinkedIn]][LinkedIn-url]
+
+</div>
+
+<br>
+
+<div align="center">
+
+  ## 🖥 Portfolio
+  
+  https://raphael-alarcon.github.io/portfolio
+
+</div>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[Typescript-url]: https://www.typescriptlang.org/
+[Symfony]: https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=white
+[Symfony-url]: https://hono.dev/
+[Hono.js]: https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white
+[Hono-url]: https://symfony.com/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/react.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
+[Angular.js]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Adonis.js]: https://img.shields.io/badge/AdonisJs-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white
+[Adonis-url]: https://angular.io/
+
+[Email]: https://img.shields.io/badge/raph.alarcon1@gmail.com-323330?style=for-the-badge&logo=gmail&logoColor=EA4335
+[Email-url]: mailto:raph.alarcon1@gmail.com
+[LinkedIn]: https://img.shields.io/badge/Raphaël%20ALARCON-323330?style=for-the-badge&logo=linkedin&logoColor=0A66C2
+[LinkedIn-url]: https://www.linkedin.com/in/raphael-alarcon/
