@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">I'm <b>Raphaël</b>, a computer science student based in France <b>driven by passion</b> :telescope:</h3>
+<h3 align="center">I'm <b>Densetsuuu</b>, a computer science student based in France <b>driven by passion</b> :telescope:</h3>
 
 <br>
 
@@ -32,7 +32,7 @@
 
   ### 📊 Stats
   
-  [![Raphael's Github Stats](https://github-readme-stats.vercel.app/api?username=raphael-alarcon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  [![Densetsuuu's Github Stats](https://github-readme-stats.vercel.app/api?username=densetsuuu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
