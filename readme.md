@@ -23,6 +23,7 @@
   [![React][React.js]][React-url]
   [![Angular][Angular.js]][Angular-url]
   [![Adonis][Adonis.js]][Adonis-url]
+  [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&style=for-the-badge&logoColor=fff)](#)
 
 </div>
 
@@ -85,5 +86,5 @@
 
 [Email]: https://img.shields.io/badge/raph.alarcon1@gmail.com-323330?style=for-the-badge&logo=gmail&logoColor=EA4335
 [Email-url]: mailto:raph.alarcon1@gmail.com
-[LinkedIn]: https://img.shields.io/badge/Raphaël%20ALARCON-323330?style=for-the-badge&logo=linkedin&logoColor=0A66C2
+[LinkedIn]: https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff
 [LinkedIn-url]: https://www.linkedin.com/in/raphael-alarcon/
