@@ -62,9 +62,9 @@
 
 <div align="center">
 
-  ## 🖥 Portfolio
+  ## 🖥 Candela Studio
   
-  https://raphael-alarcon.github.io/portfolio
+  [www.candela-studio.com](https://www.candela-studio.com/)
 
 </div>
 
